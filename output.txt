@@ -1,0 +1,17 @@
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+sda      8:0    0 232.9G  0 disk 
+├─sda1   8:1    0   300M  0 part /boot/efi
+└─sda2   8:2    0 232.6G  0 part /home
+                                 /
+sdb      8:16   0 931.5G  0 disk 
+├─sdb1   8:17   0   260M  0 part 
+├─sdb2   8:18   0   128M  0 part 
+├─sdb3   8:19   0 930.2G  0 part /media/int3rlud3/Windows
+└─sdb4   8:20   0   980M  0 part 
+sdc      8:32   0   149G  0 disk 
+├─sdc1   8:33   0   529M  0 part 
+├─sdc2   8:34   0   100M  0 part 
+├─sdc3   8:35   0    16M  0 part 
+└─sdc4   8:36   0 148.4G  0 part /media/int3rlud3/Master
+sde      8:64   0   1.8T  0 disk 
+└─sde1   8:65   0   1.8T  0 part /media/int3rlud3/NAS

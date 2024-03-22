@@ -1,0 +1,2 @@
+sudo apt intall dnf
+sudo apt update
